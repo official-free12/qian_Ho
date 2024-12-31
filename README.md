@@ -1,0 +1,6 @@
+# 钱包AI机器人投资理财DAPP机器人投资理财
+
+2024全网首发，新风口 AI+区块链 投资理财 基于dapp协议 所有钱包内均可运行<br>支持接入的钱包 TP钱包 小狐狸钱包 Coinbase 等主流钱包授权登录，为了方便用户定制化需求，我们没有接入钱包授权登录。用户选择钱包以后我们再接入官方接口完成授权创建账号。<br>系统卖点<br>AI+机器人+区块链+dapp钱包+投资 提供所有区块链需要的证件素材，包括金融公司 金融牌照 白皮书 技术文档 等一系列运营需要的资质文件，全程委托办理 让您运营无忧。<br>系统功能<br>多语言 目前支持英语 法语 俄语 西班牙语 印尼语 泰语 越南语 其他语言可根据需求添加定制<br>支付接口 PayPal Stripe Paytm Moli Coinbase 区块链接口等国际主流接口<br>邀请返佣 邀请好友注册成功以后开始返佣<br>投资返佣 被邀请人投资以后邀请人返佣<br>AI智能客服-接入chatgpt大模型，实现真正意义上的ai客服 只需要投喂数据 解放员工双手 24小时接待客户<br>多权限后台 财务 经理 业务员 超管 多后台方便管理<br>国际化UI 完全按照欧美地区审美量身定制UI 摆脱中国风UI 与国际接轨<br>邮件通知 用户投资或充值以后会收到官方的提示邮件<br>工单管理 为了考虑到某些地区不习惯使用在线客服 我们内置了工单系统 用户可向平台发送工单<br>更多功能可根据需求定制<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/1rUTg" style="color: red;">https://mega-file.org/1rUTg</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
